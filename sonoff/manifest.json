@@ -1,0 +1,8 @@
+{
+    "domain": "sonoff",
+    "name": "ewelink (sonoff)",
+    "documentation": "https://github.com/peterbuga/HASS-sonoff-ewelink",
+    "requirements": ["sonoff==0.0.1","sonoff==0.9.2"],
+    "dependencies": [],
+    "codeowners": []
+}
