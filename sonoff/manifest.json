@@ -2,7 +2,7 @@
     "domain": "sonoff",
     "name": "ewelink (sonoff)",
     "documentation": "https://github.com/peterbuga/HASS-sonoff-ewelink",
-    "requirements": ['uuid', 'websocket-client==0.54.0'],
+    "requirements": ["uuid", "websocket-client==0.54.0"],
     "dependencies": [],
     "codeowners": []
 }
